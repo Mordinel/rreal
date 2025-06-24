@@ -2,5 +2,7 @@
 name = "rreal"
 version = "0.1.0"
 edition = "2024"
+authors = ["Mordinel <Mordinel at pm.me>"]
+license = "LGPL-3.0"
 
 [dependencies]
